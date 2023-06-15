@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyPhongTro.QLPhongTroCodeFristModel" Class="QuanLyPhongTroDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local);Initial Catalog=QuanLyPhongTro.QLPhongTroCodeFristModel;Integrated Security=True" SettingsObjectName="QuanLyPhongTro.Properties.Settings" SettingsPropertyName="QuanLyPhongTro_QLPhongTroCodeFristModelConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChuTroes" Member="ChuTroes">
+    <Type Name="ChuTroe">
+      <Column Name="MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ten" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CCCD" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="QueQuan" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="ChuTroe_HopDong" Member="HopDongs" ThisKey="MaSo" OtherKey="ChuTro_MaSo" Type="HopDong" />
+      <Association Name="ChuTroe_NguoiDungChuTroe" Member="NguoiDungChuTroes" ThisKey="MaSo" OtherKey="ChuTro_MaSo" Type="NguoiDungChuTroe" />
+      <Association Name="ChuTroe_PhongTroe" Member="PhongTroes" ThisKey="MaSo" OtherKey="ChuTro_MaSo" Type="PhongTroe" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDons" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoDienTieuThu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SoNuocTieuThu" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NgayDau" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NgayCuoi" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DaThanhToan" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NgayThanhToan" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PhongTro_MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="PhongTroe_HoaDon" Member="PhongTroe" ThisKey="PhongTro_MaSo" OtherKey="MaSo" Type="PhongTroe" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HopDongs" Member="HopDongs">
+    <Type Name="HopDong">
+      <Column Name="MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayTao" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TienCoc" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="ThoiHanCoc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DaLayTienCoc" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NgayKetThuc" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ChuTro_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Column Name="NguoiThue_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Column Name="PhongTro_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="ChuTroe_HopDong" Member="ChuTroe" ThisKey="ChuTro_MaSo" OtherKey="MaSo" Type="ChuTroe" IsForeignKey="true" />
+      <Association Name="NguoiThue_HopDong" Member="NguoiThue" ThisKey="NguoiThue_MaSo" OtherKey="MaSo" Type="NguoiThue" IsForeignKey="true" />
+      <Association Name="PhongTroe_HopDong" Member="PhongTroe" ThisKey="PhongTro_MaSo" OtherKey="MaSo" Type="PhongTroe" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NguoiDungChuTroes" Member="NguoiDungChuTroes">
+    <Type Name="NguoiDungChuTroe">
+      <Column Name="TenDangNhap" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ChuTro_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="ChuTroe_NguoiDungChuTroe" Member="ChuTroe" ThisKey="ChuTro_MaSo" OtherKey="MaSo" Type="ChuTroe" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NguoiDungNguoiThues" Member="NguoiDungNguoiThues">
+    <Type Name="NguoiDungNguoiThue">
+      <Column Name="TenDangNhap" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NguoiThue_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="NguoiThue_NguoiDungNguoiThue" Member="NguoiThue" ThisKey="NguoiThue_MaSo" OtherKey="MaSo" Type="NguoiThue" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NguoiThues" Member="NguoiThues">
+    <Type Name="NguoiThue">
+      <Column Name="MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ten" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CCCD" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="QueQuan" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhongTro_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="NguoiThue_HopDong" Member="HopDongs" ThisKey="MaSo" OtherKey="NguoiThue_MaSo" Type="HopDong" />
+      <Association Name="NguoiThue_NguoiDungNguoiThue" Member="NguoiDungNguoiThues" ThisKey="MaSo" OtherKey="NguoiThue_MaSo" Type="NguoiDungNguoiThue" />
+      <Association Name="PhongTroe_NguoiThue" Member="PhongTroe" ThisKey="PhongTro_MaSo" OtherKey="MaSo" Type="PhongTroe" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhongTroes" Member="PhongTroes">
+    <Type Name="PhongTroe">
+      <Column Name="MaSo" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DienTich" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SoNguoiToiDa" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CoGac" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="ChoNuoiThuCung" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TienThue" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TienDien" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TienNuoc" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TienRac" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="ChuTro_MaSo" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="PhongTroe_HoaDon" Member="HoaDons" ThisKey="MaSo" OtherKey="PhongTro_MaSo" Type="HoaDon" />
+      <Association Name="PhongTroe_HopDong" Member="HopDongs" ThisKey="MaSo" OtherKey="PhongTro_MaSo" Type="HopDong" />
+      <Association Name="PhongTroe_NguoiThue" Member="NguoiThues" ThisKey="MaSo" OtherKey="PhongTro_MaSo" Type="NguoiThue" />
+      <Association Name="ChuTroe_PhongTroe" Member="ChuTroe" ThisKey="ChuTro_MaSo" OtherKey="MaSo" Type="ChuTroe" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

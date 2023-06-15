@@ -1,0 +1,195 @@
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.SuggestedBindingRedirects.cache
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormChiTietHoaDon.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDangKy.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHoaDonNguoiThue.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHopDong.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormLogin.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThue.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThueTimPhong.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormThongTinCaNhan.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormThuePhong.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormXacMinh.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Find_NguoiThue_Form.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChuTro.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Ghihoadon_Form.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemNguoiVaoTro_Form.resources
+D:\WIPR\Final Project\ADO.NET\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemXoaPhong_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Find_NguoiThue_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormChiTietHoaDon.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChuTro.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDangKy.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHoaDonNguoiThue.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHopDong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormLogin.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThue.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThueTimPhong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormThongTinCaNhan.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormThuePhong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormXacMinh.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Ghihoadon_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemNguoiVaoTro_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemXoaPhong_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\RdlCompile.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\RdlCompile.compiled
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\EnvDTE.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\stdole.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.MSXML.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\ADO.Net\2023-20230609T143948Z-001\09-06-2023\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CopyComplete
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\EnvDTE.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\stdole.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\Microsoft.MSXML.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Find_NguoiThue_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormChiTietHoaDon.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChuTro.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDangKy.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHoaDonNguoiThue.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormHopDong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormLogin.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThue.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormNguoiThueTimPhong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormThongTinCaNhan.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormThuePhong.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.GUILayer.FormXacMinh.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Ghihoadon_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemNguoiVaoTro_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.ThemXoaPhong_Form.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\RdlCompile.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\RdlCompile.compiled
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CopyComplete
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\Semester_4\WinForm\Đồ án cuối kỳ\Nhóm 22\ADO\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
